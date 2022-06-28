@@ -54,19 +54,13 @@ const App = () => {
                     
                   </div>
                   <div className="outer flex ml-2">
-                    {
                       <div className='inner-left'>
                         <img src="./images/sun.jpg" alt="" />
-                        {/* <img src={Record.image} alt="" /> */}
                       </div>
-                    }
-                    {
                       <div className='inner-right ml-1'>
                         <div className='inner-right-firt'><img src="./images/sky.jpg" alt="" /></div>
                         <div className='inner-right-second mt-1'><img src="./images/starry.jpg" alt="" /></div>
-                        
                       </div>
-                    }
                   </div>
               </div>
             </div>
